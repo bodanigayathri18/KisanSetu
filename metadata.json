@@ -1,0 +1,6 @@
+{
+  "name": "KisanConnect",
+  "description": "A unified digital procurement ecosystem connecting Farmers, Procurement Officials, and Buyers for transparent, efficient agricultural produce management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
